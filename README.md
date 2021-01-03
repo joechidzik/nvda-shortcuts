@@ -9,3 +9,4 @@ Shortcut | Action
 NVDA+c | copy
 NVDA+v | paste
 NVDA+l | something else
+NVDA+shift+A | mute NVDA in current application
